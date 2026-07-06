@@ -62,9 +62,6 @@ A secure and scalable **Bank Transaction Backend API** built with **Node.js**, *
 | dotenv | Environment Variables |
 
 
-I'll add a short todo entry, then show the project tree.
-
-Created 1 todo
 
 Project Tree
 - package.json
